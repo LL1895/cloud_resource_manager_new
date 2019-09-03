@@ -1,0 +1,10 @@
+2019-08-22 03:00:02  ECS ecs-ycytest Delete Successful result:{'job_id': '8aaf9edf6c2e9e2e016cb58ceb9910fc'} return_code:200.
+2019-08-22 20:45:12  ECS ecs-8f17 Delete Successful result:{'job_id': 'ff8080816c3e4bc8016cb95c1e310564'} return_code:200.
+2019-08-24 03:18:02  ECS ecs-a4ee-tt Delete Successful result:{'job_id': '8a6643426c959afb016cbfea23265d18'} return_code:200.
+2019-08-24 03:36:07  ECS yy-test Delete Successful result:{'job_id': '8aaf9edf6c2e9e2e016cbffaafba2161'} return_code:200.
+2019-08-27 10:03:03  ECS ecs-9464 Delete Successful result:{'job_id': 'ff8080816c2ea000016cd0cff2bc6548'} return_code:200.
+2019-08-27 21:18:18  ECS ecs-Robert Delete Successful result:{'job_id': 'ff8080816c959bfd016cd33a290e138d'} return_code:200.
+2019-08-30 02:57:02  ECS ecs-ycytest Delete Successful result:{'job_id': '8aaf9ede6cd3674f016cdebd02714666'} return_code:200.
+2019-08-30 06:33:02  ECS ecs-clh服误删 Delete Successful result:{'job_id': 'ff8080816cd36b39016cdf82c37d717e'} return_code:200.
+2019-09-02 21:42:02  ECS ecs-9d8a Delete Successful result:{'job_id': 'ff8080816cd36b39016cf23609e4373a'} return_code:200.
+2019-09-03 02:24:02  ECS ecs-89c9-m Delete Successful result:{'job_id': 'ff8080816cd36b39016cf338377f7e67'} return_code:200.

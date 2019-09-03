@@ -1,0 +1,13 @@
+2019-08-21 21:00:02   ECS: ['ecs-ycytest'] Shut Off!  result:{'job_id': '8aaf9ede6c2e9c5f016cb44356c06bac'} return_code:200.
+2019-08-23 21:16:42   ECS: ['ecs-a4ee-tt'] Shut Off!  result:{'job_id': '8a6643436c959ebd016cbe9f51d41d84'} return_code:200.
+2019-08-23 21:40:12   ECS: ['yy-test'] Shut Off!  result:{'job_id': '8aaf9ede6c2e9c5f016cbeb4d8907d0d'} return_code:200.
+2019-08-27 19:00:23   ECS: ['ecs-Robert'] Shut Off!  result:{'job_id': 'ff8080816c959c09016cd2bbe5b80666'} return_code:200.
+2019-08-29 20:57:03   ECS: ['ecs-ycytest'] Shut Off!  result:{'job_id': '8aaf9ede6cd3674f016cdd736d2d65e9'} return_code:200.
+2019-08-31 19:00:08   ECS: ['ecs-bc19'] Shut Off!  result:{'job_id': '8a6643446cd37df0016ce75520494204'} return_code:200.
+2019-09-02 18:45:08   ECS: ['ecs-https'] Shut Off!  result:{'job_id': '8a6643426cd3760d016cf1941c8e0532'} return_code:200.
+2019-09-02 18:54:03   ECS: ['dp-snat-test'] Shut Off!  result:{'job_id': 'ff8080816caa37a8016cf19c490b56b7'} return_code:200.
+2019-09-02 19:00:01   ECS: ['ecs-9d8a'] Shut Off!  result:{'job_id': 'ff8080816cd36b39016cf1a1c0c602c9'} return_code:200.
+2019-09-02 20:15:24   ECS: ['ecs-Robert'] Shut Off!  result:{'job_id': 'ff8080816c959bfd016cf1e6c4c64644'} return_code:200.
+2019-09-02 20:18:14   ECS: ['ecs-Robert'] Shut Off!  result:{'job_id': 'ff8080816c9599e7016cf1e95b5c0d26'} return_code:200.
+2019-09-02 20:21:16   ECS: ['ecs-Robert'] Shut Off!  result:{'job_id': 'ff8080816c9599e7016cf1ec23150d43'} return_code:200.
+2019-09-02 20:24:02   ECS: ['ecs-89c9-m'] Shut Off!  result:{'job_id': '8aaf9ede6cd3674f016cf1eea8800211'} return_code:200.

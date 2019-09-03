@@ -1,0 +1,17 @@
+警告！此华为云测试账号资源自动清理项目，仅供内部员工测试使用，如有外传使用造成使用者任何资源被清理删除，华为云不承担任何责任。
+使用说明：
+语言环境：python3.0以上版本
+第三方安装包：requests
+运行方法：将bin目录下cloud_resource_manager.py文件添加到系统计划任务运行即可(建议3-5分钟运行一次)。
+可配置项：位于conf目录下
+--settings.py
+          iam 设置测试账号的用户名和密码
+          off_time,del_time设置不同时段资源清理的时间间隔
+          nodel_ecs_name 设置不被删除管理的ecs名称(在创建主机时设置包含这个名称的主机将不被关机或删除)
+          Endpoint_project_id iam账户的所有地区的不同项目名称和项目id【project_id】
+          smn_project 发送短信消息所使用的项目名称
+          userinfo IAM子用户ID和名字电话设置(发送短信通知使用)
+--protected.py
+           ECS 设置被保护的主机ID
+           EIP 设置被保护的弹性IP地址
+样例：*/3 * * * * /usr/bin/python /usr/local/src/begin/cloud_resource_manager/bin/cloud_resource_manager.py
